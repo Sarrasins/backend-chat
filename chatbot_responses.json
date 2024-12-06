@@ -1,0 +1,61 @@
+{
+    "responses": {
+      "trésor": [
+        "Le trésor est peut-être caché sur Monkey Island. Mais gare aux pirates fantômes, moussaillon !",
+        "Pourquoi chercher un trésor alors qu'on peut piller un navire ? Arrr !",
+        "Un trésor ? Peut-être dans le baril de rhum, matelot !",
+        "Arrr, je parierais mon crochet qu'il est enterré près d'un palmier en forme de perroquet !"
+      ],
+      "capitaine": [
+        "C'est moi, le grand Capitaine LeChuck ! Ou peut-être Guybrush Threepwood... qui sait ?",
+        "Le capitaine, c'est celui qui crie le plus fort. Arrr !",
+        "Tu veux être capitaine ? Alors prouve ta valeur, pirate !",
+        "Le capitaine ici ? C'est le perroquet sur mon épaule. Il a plus d'autorité que moi !"
+      ],
+      "bateau": [
+        "Arrr, un bateau pirate n'est pas qu'un simple navire. C'est une maison, une fierté, et parfois une prison flottante !",
+        "Mon bateau ? Il s'appelle le 'Rhum Eternel', et il est plus rapide qu'un perroquet en colère !",
+        "Un bon bateau, c'est comme un bon pirate : robuste, fiable, et prêt à couler à tout moment !"
+      ],
+      "fantôme": [
+        "Les fantômes ici ? Oh, ils aiment danser la gigue sur le pont la nuit !",
+        "Un fantôme ? Peut-être LeChuck, ou juste mon reflet dans la mer. Qui sait ?",
+        "Arrr, les fantômes de Monkey Island sont aussi mauvais en blagues qu'ils le sont en piraterie !"
+      ],
+      "épée": [
+        "Une épée ? Tu veux te battre comme un vrai pirate ? Arrr, montre-moi tes talents !",
+        "Les batailles d'épée sont un art. Et sur Monkey Island, c'est un art... hilarant !",
+        "Arrr, je préfère mon crochet, mais une épée bien aiguisée peut régler bien des problèmes !"
+      ],
+      "problème": [
+        "Un problème ? Tranche-le avec ton épée, moussaillon !",
+        "Peut-être que ton problème est un fantôme. Ignore-le et il disparaîtra !",
+        "Les vrais pirates ne se plaignent pas. Bois du rhum et résous-le !",
+        "Arrr, chaque problème est une opportunité pour une gigue de victoire anticipée !"
+      ],
+      "histoire": [
+        "Ah, l'histoire des pirates... pleine de mystères, de trésors, et de mauvais choix capillaires.",
+        "Laisse-moi te raconter l'histoire du capitaine qui a défié les dieux de la mer... et a perdu son chapeau !",
+        "L'histoire de Monkey Island ? Une légende pleine de singes, de trésors et de blagues foireuses !"
+      ],
+      "code": [
+        "Le code, c'est comme une énigme pirate. Trouve la clé et ouvre le coffre !",
+        "Un problème de code ? Utilise ton crochet et débogue tout ça !",
+        "Arrr, même les pirates codent parfois. Peut-être que ta solution est sur StackOverflow !",
+        "Je te conseille : moins de lignes, plus de rhum. Ça marche à tous les coups !"
+      ],
+      "aide": [
+        "Je suis là pour t'aider, moussaillon. Pose ta question, et je te répondrai avec un ton de pirate !",
+        "Aide ? Je peux te donner des conseils... ou juste te faire rire. À toi de choisir !",
+        "Arrr, le capitaine est toujours là pour ses matelots. Dis-moi tout !",
+        "Besoin d'aide ? J'espère que tu as apporté du rhum pour négocier !"
+      ],
+      "default": [
+        "Arrr, je ne connais pas la réponse exacte, mais souviens-toi : chaque pirate doit trouver son propre chemin !",
+        "Arrr, ça dépasse mon niveau de piraterie, mais je parierais sur du rhum pour résoudre ça !",
+        "Je ne suis qu'un humble pirate... essaie de demander autrement, moussaillon.",
+        "Je n'ai pas la réponse, mais as-tu essayé de demander au perroquet ?"
+      ]
+    }
+  }
+  
